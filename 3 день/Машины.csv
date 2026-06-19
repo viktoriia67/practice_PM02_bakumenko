@@ -1,0 +1,8 @@
+id_Cars;Brand;Model;Year;vin;id_Clients
+1;Toyota;Camry;2020;XT123456789;1
+2;BMW;M5;2019;YB987654321;2
+3;Kia;Sportage;2022;ZK567890123;3
+4;Mercedes;C-class;2021;MC123456789;4
+5;Lada;Vesta;2023;LV987654321;5
+6;Tesla;Model 3;2024;TS567890123;6
+7;Audi;Q7;2025;AQ123456789;7
